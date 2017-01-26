@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarApplication", "CarApplication\CarApplication.csproj", "{EAB1F262-3B58-4BDB-9B97-1BA8960792AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaterApplication", "HeaterApplication\HeaterApplication.csproj", "{D3A1A838-8B34-44EA-90B3-07A2365ACC25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pesukone", "pesukone\pesukone.csproj", "{1EADEC62-5ED9-4E30-A8A0-5BD0F2926A66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{EAB1F262-3B58-4BDB-9B97-1BA8960792AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAB1F262-3B58-4BDB-9B97-1BA8960792AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAB1F262-3B58-4BDB-9B97-1BA8960792AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A1A838-8B34-44EA-90B3-07A2365ACC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A1A838-8B34-44EA-90B3-07A2365ACC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A1A838-8B34-44EA-90B3-07A2365ACC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A1A838-8B34-44EA-90B3-07A2365ACC25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EADEC62-5ED9-4E30-A8A0-5BD0F2926A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EADEC62-5ED9-4E30-A8A0-5BD0F2926A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EADEC62-5ED9-4E30-A8A0-5BD0F2926A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EADEC62-5ED9-4E30-A8A0-5BD0F2926A66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
